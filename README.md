@@ -1,4 +1,4 @@
-Telecom Churn Prediction using GradientBoosting Algorithm
+<h1> Telecom Churn Prediction using GradientBoosting Algorithm </h1>
 
 Step 1: Data Collection
   •	Data Source – Kaggle
